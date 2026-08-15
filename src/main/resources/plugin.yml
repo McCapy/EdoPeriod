@@ -1,0 +1,9 @@
+name: EdoPeriod
+prefix: [ EdoPeriod ]
+version: '${version}'
+
+main: org.edoPeriod.EdoPeriod
+api-version: '1.21.11'
+load: POSTWORLD
+
+authors: [ helixneon, kamaruby ]
